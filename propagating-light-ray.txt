@@ -2,3 +2,12 @@
 
 light-page-scrolling src
 https://youtu.be/qYFkQa0Bbq0
+
+
+
+
+three mesh line ?
+
+https://youtu.be/fplfxXVDIdU
+
+https://syntaxbytetutorials.com/three-js-drawing-smooth-lines-with-webgl/
